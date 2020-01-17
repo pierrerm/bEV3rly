@@ -19,7 +19,7 @@ The full documentation is available here:
 
    Aurelia Haas <br>
    Isaac Di Francesco <br>
-   Pierre Robert-Michon 260712449 <br>
+   Pierre Robert-Michon <br>
    Brendan Marks <br>
    Stefan Barbu <br>
    Usama Barlas <br>
